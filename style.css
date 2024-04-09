@@ -21,7 +21,7 @@ header{
 
 header .navbar{
     display: flex;
-    align-items: center;
+    align-items:end;
     justify-content: space-between;
 }
 
@@ -36,7 +36,7 @@ header .navbar{
 
 .navbar .menu-links {
     display: flex;
-    gap: 40px;
+    gap: 60px;
 }
 
 .navbar a {
